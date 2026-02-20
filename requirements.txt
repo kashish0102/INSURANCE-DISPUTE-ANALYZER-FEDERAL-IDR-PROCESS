@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+pdfplumber
+pytesseract
+pillow
+opencv-python
+numpy
+gtts
+pandas
+paddleocr
+matplotlib
+huggingface_hub
